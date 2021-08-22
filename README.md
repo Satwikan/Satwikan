@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satwik Anmol</h1>
-<h3 align="center">I am an Independent and self-motivated Student with excellent logic and communication skills. Enthusiastic to learn new things and technologies.</h3>
+<h2>Hey There 😎, I'm Satwik Anmol</h2>
+<h3>I am an Independent and self-motivated Student with excellent logic and communication skills. Enthusiastic to learn new things and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwikan&label=Profile%20views&color=0e75b6&style=flat" alt="satwikan" /> </p>
 
