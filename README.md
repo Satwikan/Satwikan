@@ -1,5 +1,6 @@
-<h2>Hey There 😎, I'm Satwik Anmol</h2>
-<h3>I am an Independent and self-motivated Student with excellent logic and communication skills. Enthusiastic to learn new things and technologies.</h3>
+<h1>Hey There <img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="40"/></h1>
+<h2>I'm Satwik Anmol<h/2>
+<h3>Developer | Student | Techie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwikan&label=Profile%20views&color=0e75b6&style=flat" alt="satwikan" /> </p>
 
