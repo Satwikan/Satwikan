@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwikan&label=Profile%20views&color=0e75b6&style=flat" alt="satwikan" /> </p>
 
-- ⚡ Fun fact **I love JavaScript**
+- ⚡ Fun fact - **Scorpians glow in dark🦂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
